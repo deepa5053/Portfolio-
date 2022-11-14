@@ -1,0 +1,29 @@
+h1{
+display: flex;
+align-items: center;
+justify-content: center;
+color: blueviolet;
+
+}
+.navbar{
+color: black;
+font-size: xx-large;
+}
+.name{
+color: blueviolet;
+}
+.main{
+margin-top: 5rem;
+margin-bottom: 5rem;
+margin-left: 10rem;
+margin-right: 10rem;
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: center;
+
+}
+.img{
+width: 50%;
+height: 70%;
+}
