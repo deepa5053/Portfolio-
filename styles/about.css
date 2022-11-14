@@ -1,0 +1,32 @@
+.btn{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-size: 50px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.heading{
+margin-top: 10rem;
+margin-bottom: 5rem;
+color: aliceblue;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.details{
+display: flex;
+align-items: center;
+justify-content: space-around;
+flex-direction: row;
+color: aliceblue;
+margin-bottom: 5rem;
+font-size: medium;
+}

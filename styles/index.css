@@ -1,16 +1,27 @@
+body{
+    background-image: url(../images/background-img.jpeg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
 h1{
 display: flex;
 align-items: center;
 justify-content: center;
-color: blueviolet;
+color: blue;
 
 }
 .navbar{
 color: black;
 font-size: xx-large;
+margin-left: 3rem;
+margin-right: 3rem;
+background-color: black;
 }
 .name{
-color: blueviolet;
+color: white;
+margin-right: 15rem;
+font-size: x-large;
 }
 .main{
 margin-top: 5rem;
@@ -20,10 +31,11 @@ margin-right: 10rem;
 display: flex;
 flex-direction: row;
 align-items: center;
-justify-content: center;
-
+justify-content: space-between;
+width: 100%;
 }
 .img{
 width: 50%;
 height: 70%;
+margin-left: 10rem;
 }
