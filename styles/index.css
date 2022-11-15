@@ -17,6 +17,7 @@ font-size: xx-large;
 margin-left: 3rem;
 margin-right: 3rem;
 background-color: black;
+margin-bottom: 5rem;
 }
 .name{
 color: white;
@@ -37,5 +38,4 @@ width: 100%;
 .img{
 width: 50%;
 height: 70%;
-margin-left: 10rem;
 }
