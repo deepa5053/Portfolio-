@@ -389,16 +389,6 @@ header .navbar ul li a:hover {
     color: #f9ca24;
     font-size: xx-large;
 }
-.details{
-    color: var(--yellow);
-    display: flex;
-  justify-content: space-between;
-  flex-flow: row;
-  padding: 0 15rem;
-  font-size: 2.5rem;
-  margin-top: 5rem;
-  
-}
 .contact {
   background: url(../images/background-6.jpg), no-repeat;
   background-size: cover;
