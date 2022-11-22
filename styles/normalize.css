@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="./styles/index.css" />
-    <title>Deepa Birari Portfolio</title>
+    <title>Yosub Yacob's Portfolio</title>
 
     <!-- font awesome cdn link  -->
     <link
@@ -13,17 +13,17 @@
     />
 
     <!-- custom css file link  -->
-    <link rel="stylesheet" href="styles/index.css" />
-    <link rel="stylesheet" href="styles/normalize.css" />
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="./styles/normalize.css" />
   </head>
   <body>
     <!-- header section starts  -->
 
     <header>
       <div class="user">
-        <img src="images/me.jpeg" alt="" />
-        <h3 class="name">Deepa Birari</h3>
-        <p class="post">front end developer</p>
+        <img src="./images/me.jpeg" alt="" />
+        <h3 class="name">Yosub Yacob</h3>
+        <p class="post">front end developer<br />Web Application QA</p>
       </div>
 
       <nav class="navbar">
@@ -45,20 +45,11 @@
 
     <section class="home" id="home">
       <h3>HI THERE !</h3>
-      <h1>I'M <span>DEEPA BIRARI</span></h1>
+      <h1>I'M <span>Yosub Yacob</span></h1>
       <p>
-        As a programmer, I love working on exciting projects! One of the best parts of 
-        being a programmer is creating something that didn't exist before. And then you get control
-        over an application, website, or whatever your creation! You can develop and maintain 
-        something very useful, which leads us to the next point…
-      </p>
-      <p>
-        Working from wherever and whenever you want is another thing to love about programming. 
-        Remote jobs have become extremely popular lately. There are quite a few jobs that can be 
-        done anywhere, and programming is among them. Moreover, you need just two things to program 
-        — a computer and an internet connection. With these two things, you can live anywhere in the 
-        world. Want to move to Norway and start ice fishing? Great! Feel like moving to Thailand to 
-        spend free time on the beach? No problem! The choice is entirely up to you. 
+        who found his true passion in programming, ever since writing my first
+        code, Curious as to why these Codes worked the way they do almost
+        immediately , i knew this is what i wanted to do with my life !
       </p>
       <a href="#about"
         ><button class="btn">about me <i class="fas fa-user"></i></button
@@ -74,11 +65,11 @@
 
       <div class="row">
         <!-- <div class="info">
-          <h3><span> name : </span> Deepa Birari</h3>
-          <h3><span> age : </span> 36</h3>
+          <h3><span> name : </span> Yusub Yacob</h3>
+          <h3><span> age : </span> 32</h3>
           <h3><span> qualification : </span> QA</h3>
           <h3><span> post : </span> front end developer</h3>
-          <h3><span> language : </span> English</h3>
+          <h3><span> language : </span> Uyghur(Turkish,Chinese,English)</h3>
           <a href="#"
             ><button class="btn">
               download CV <i class="fas fa-download"></i></button
@@ -86,12 +77,33 @@
         </div> -->
 
         <div class="counter">
+          <div class="box">
+            <span>1.5</span>
+            <h3>years of experience in Web APP QA</h3>
+          </div>
 
           <div class="box">
             <span>5+</span>
             <h3>Web porject completed</h3>
           </div>
 
+          <div class="box">
+            <span>QA</span>
+            <h3>Test Planning</h3>
+            <h3>Automation Testing</h3>
+            <h3>Manual Testing</h3>
+          </div>
+          <div class="box">
+            <span>QA Tools</span>
+            <h3>jinkins</h3>
+            <h3>Java</h3>
+            <h3>Jira</h3>
+            <h3>junit</h3>
+            <h3>selenium webdriver</h3>
+            <h3>web testing</h3>
+            <h3>cucumber</h3>
+            <h3>testNG</h3>
+          </div>
           <div class="box">
             <span>Web Tools</span>
             <h3>HTML</h3>
@@ -105,53 +117,9 @@
             <h3>npm</h3>
             <h3>yarn</h3> -->
           </div>
-          <div class="box">
-            <span>1.5 Years</span>
-            <h3>experience in</h3>
-            <h3>Accounting</h3>
-            
-          </div>
         </div>
       </div>
-      <section class="exp">
-      <h3 class="head">Work Experience:-</h3>
-         <p> Worked as Sauce chef in Dubbel Dubbel Restaurant, Gothenburg Sweden.
-        Where I was responsible for making seven types of sauces, everyday was planned and
-        organized and what needs to be done in a whole day. I was very good at multitasking
-        and learning new things.
-        </p> <br>
-        <p>
-        Runned my own Designer Cake Shop for three years, where I was responsible for
-        managing from scratch to the end customer. I had to multitask, be organized, plan for the
-        next day, be on time, manage the employees and customers, and need to have a good
-        bond with customers. 
-        </p><br> 
-        
-        <p>
-        Worked as Senior Accountant in Espacia Kitchen, Pune India.
-        I was responsible for preparing financial analyses and reports.Assisting with annual audit
-        preparations,performing other accounting duties and supporting junior staff as required
-        or assigned. 
-        </p> <br>
-        <p>
-        Worked as Accountant in Podar International School, Pune India.
-        I was responsible for preparing tax returns and ensuring that taxes are paid properly and
-        on time. Offering guidance on cost reduction and profit maximization.
-        </p>
-         </section> 
-         <section class="details">
-          <div>
-            Analytical <br>
-            Clear Communicator <br>
-            Strong Interpersonal Skills <br>
-          </div>
-          <div>
-            Results Driven <br>
-            Deadline Conscious <br>
-            Problem Solver
-          </div>
-        </section>  
-      </section>
+    </section>
 
     <!-- about section ends -->
 
@@ -163,37 +131,37 @@
       <div class="box-container">
         <div class="box">
           <i class="fas fa-graduation-cap"></i>
-          <span>2003-2006</span>
-          <h3>business administration and finance</h3>
-          <h3>Pune University ,Bachelor's degree</h3>
+          <span>2007-2011</span>
+          <h3>international trade and economy</h3>
+          <h3>Xinjiang University ,Bachelor's degree</h3>
         </div>
 
         <div class="box">
           <i class="fas fa-graduation-cap"></i>
-          <span>2006-2007</span>
+          <span>2018-03-2019-6</span>
           <h3>Computer - Programming</h3>
-          <h3>Aptech Institute, Nashik India</h3>
+          <h3>Sangmyung University, south korea</h3>
         </div>
 
         <div class="box">
           <i class="fas fa-graduation-cap"></i>
-          <span>2022-8-2023-01</span>
+          <span>2021-8-2022-01</span>
           <h3>front - end - development</h3>
           <h3>Sundsgården Folk High School</h3>
-          <h3> Helsingborg, Sweden</h3>
         </div>
 
         <div class="box">
-          <i class="fas fa-graduation-cap"></i>
-          <span>2007-2008</span>
-          <h3>ADCS(Advance Diploma in Computer Science)</h3>
-          <h3>NDMVP , Nashik India</h3>
+          <i class="fas fa-wrench"></i>
+          <span>2015-2018</span>
+          <h3>Translation - Coordinator</h3>
+          <h3>Kazan Soda Elektrik Ankara, Turkey</h3>
         </div>
+
         <div class="box">
-          <i class="fas fa-graduation-cap"></i>
-          <span>2008-2010</span>
-          <h3>MCM(Masters in Computer Management)</h3>
-          <h3>Ashoka College, Nashik India</h3>
+          <i class="fas fa-wrench"></i>
+          <span>2019-7-2021-6</span>
+          <h3>QA Tester Web Application quality assurance</h3>
+          <h3>United Coder LLC</h3>
         </div>
       </div>
     </section>
@@ -355,20 +323,7 @@
         </div>
       </div>
     </section>
-    <section class="sum">
-     <h3 class="sum-head"> Summary:- </h3>
-     <p>
-I have worked as an Accountant in an International School and a modular kitchen company. I
-have good knowledge in bookkeeping and tax returns.I was an entrepreneur running my
-designer cake shop for three years. During these years I have sharpened my organizational
-skills, attention to detail, and my ability to work with speed and accuracy through hands- on
-practice.</p> <br>
-<p>
-I am a highly motivated and organized person. To employ my knowledge and experience with
-the intention of securing a professional career with opportunity for challenges and career
-advancement, while gaining knowledge of new skills and expertise.
-</p>
-    </section>
+
     <!-- portfolio section ends -->
 
     <!-- contact section starts  -->
@@ -381,21 +336,21 @@ advancement, while gaining knowledge of new skills and expertise.
           <h3 class="title">contact info</h3>
 
           <div class="info">
-            <h3><i class="fas fa-envelope"></i> deepa5053@gmail.com</h3>
-            <h3><i class="fas fa-phone"></i> +46-76455 8199</h3>
+            <h3><i class="fas fa-envelope"></i> parguzatt@gmail.com</h3>
+            <h3><i class="fas fa-phone"></i> +46-076-922-3558</h3>
 
-            <h3><i class="fas fa-map-marker-alt"></i> Gothenburg</h3>
+            <h3><i class="fas fa-map-marker-alt"></i> Tyringe</h3>
             <h3 id="social-icon">
               <a
-                href="https://www.linkedin.com/in/deepa-birari-887b03a5/"
+                href="https://www.linkedin.com/in/yosof-yacob-790072ba/"
                 target="_blank"
               >
                 <i class="fab fa-linkedin"></i>
               </a>
-              <a href="https://github.com/deepa5053" target="_blank">
+              <a href="https://github.com/prg-YY" target="_blank">
                 <i class="fab fa-github"></i>
               </a>
-              <a href="" target="_blank">
+              <a href="https://twitter.com/ParguzatY" target="_blank">
                 <i class="fab fa-twitter"></i>
               </a>
             </h3>
@@ -432,7 +387,7 @@ advancement, while gaining knowledge of new skills and expertise.
             cols="30"
             rows="10"
             class="box message"
-            placeholder="Write your question or your Valuable advice"
+            placeholder="Write your quastion or your Valuable advice"
             required
           ></textarea>
           <button type="submit" class="btn" name="submit" value="SEND MESSAGE">
